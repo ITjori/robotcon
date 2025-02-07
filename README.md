@@ -2,9 +2,13 @@
 **( robot controller )**
 
 This web application is designed to control a robot remotely. It consists of three main files:
+
 	1.	HTML (index.html) – User interface with control buttons
+ 
 	2.	PHP (update.php) – Handles user commands and stores them in a database
+ 
 	3.	PHP (view.php) – Retrieves the latest command for execution
+ 
 i use XAMPP as a local server (Apache, MySQL, PHP) and Visual Studio Code for development.
 
 ***Step 1: Frontend - HTML and JavaScript***
