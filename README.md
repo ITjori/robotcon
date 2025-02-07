@@ -60,6 +60,7 @@ i use XAMPP as a local server (Apache, MySQL, PHP) and Visual Studio Code for de
 
 ***Step 3: Retrieving the Latest Command (view.php)***
 	•	This file fetches the last recorded movement command.
+ 
 	•	The robot’s controller can use this data to execute the last command.
 
 **-Key Code Snippet-**
