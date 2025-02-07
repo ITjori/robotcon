@@ -31,13 +31,18 @@ i use XAMPP as a local server (Apache, MySQL, PHP) and Visual Studio Code for de
 }*
 
 	•	This function sends an HTTP POST request to update.php, passing the selected direction.
+ 
 	•	The response is logged in the console for debugging.
 
 ***Step 2: Backend - PHP (update.php)***
 	•	This file processes user input and updates the MySQL database.
-	•	Steps:
+ 
+	**Steps:**
+ 
 	1.	Establish a database connection (robot_control database).
+ 
 	2.	Validate the received direction (F, B, L, R, S).
+ 
 	3.	Store the valid command in the directions table.
 
 **-Key Code Snippet-**
