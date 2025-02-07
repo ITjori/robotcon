@@ -13,7 +13,9 @@ i use XAMPP as a local server (Apache, MySQL, PHP) and Visual Studio Code for de
 
 ***Step 1: Frontend - HTML and JavaScript***
 	•	The index.html file provides an interface for controlling the robot.
+ 
 	•	It has buttons for moving the robot: Forward (F), Backward (B), Left (L), Right (R), Stop (S).
+ 
 	•	When a button is clicked, the sendDirection() function is called.
 
 **-JavaScript : Sending Commands-**
